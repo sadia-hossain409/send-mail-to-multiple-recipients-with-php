@@ -4,7 +4,7 @@ $to="sadi@gmail.com";
 $sub="testing2";
 $msg="Dear T,\n
 How r u?"
-<body>
+
 
 
 
